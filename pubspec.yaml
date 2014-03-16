@@ -1,0 +1,5 @@
+name: AngularDartTest
+description: Testing Angular Dart
+dependencies:
+  browser: any
+  angular: ">=0.9.9 <0.10.0"
